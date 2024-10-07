@@ -1,4 +1,4 @@
-# akwaaba (Welcome)
+![](./images/akwaba.png)
 
 scanning akwaaba, we find 2 ports open
 

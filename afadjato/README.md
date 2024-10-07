@@ -1,4 +1,4 @@
-# afadjato 
+![](./images/afadjato.png)
 upon scanning afadjato, we find two ports open
 ``` rustscan -a 10.0.13.1 -r1-65535 --ulimit 5000 
 ________________________________________

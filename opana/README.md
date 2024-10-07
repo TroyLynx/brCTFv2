@@ -1,4 +1,4 @@
-# opana
+![](./images/opana.png)
 
 scaning opana gives us only one port i.e port 80
 
